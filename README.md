@@ -1,2 +1,4 @@
 # hello-tb-software
-hi
+Zanai
+Chemical Engineering
+I want to learn python
